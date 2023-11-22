@@ -47,7 +47,7 @@ Unity: Windows / Package Manager
 Erro de compilação Unity.  
 ![Vuforia_Unity_NativeUI](_outros/Vuforia_Unity_NativeUI.png)  
 
-- [ ] Vuforia: usar o marcador do QRCode para o site do Furbot com um desenho do Furbot no centro para mostrar um personagem 3D em cima.  
+- [x] Vuforia: usar o marcador do QRCode para o site do Furbot com um desenho do Furbot no centro para mostrar um personagem 3D em cima.  
   - [ ] ao tocar na tela muda o personagem (parte de cima).  
   - [ ] ArFoundation: sem uso de marcador.  
     - [ ] ao tocar na tela muda o personagem (muda de cena sem precisar registrar uma nova âncora).  
