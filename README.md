@@ -22,7 +22,7 @@ Unity: Windows / Package Manager
   pressionar botão *unlook*  
 ![Unity_VSCodeEditor](_outros/Unity_VSCodeEditor.png)
 
-## C#
+## C\#
 
 [ ] [Getting Started with C# in VS Code](https://code.visualstudio.com/docs/csharp/get-started)  
 [ ] [Working with C#](https://code.visualstudio.com/docs/languages/csharp)  
@@ -41,8 +41,10 @@ Unity: Windows / Package Manager
 <https://developer.vuforia.com/vui/develop/dashboard>  
 <https://developer.vuforia.com/library/getting-started/getting-started-vuforia-engine-unity>  
 
-- 10.19.3  
+- 10.19.3 .. **NÃO USAR**
 ![Vuforia_Unity_Package](_outros/Vuforia_Unity_Package.png)  
+- 10.19.3 .. **USAR ESTE**
+[add-vuforia-package-10-19-3.unitypackage](_outros/add-vuforia-package-10-19-3.unitypackage)  
 
 Erro de compilação Unity.  
 ![Vuforia_Unity_NativeUI](_outros/Vuforia_Unity_NativeUI.png)  
@@ -63,6 +65,14 @@ Erro de compilação Unity.
   - [ ] usar os atuadores para interagir com os personagens.  
   
 ## FurbotREDE: Multijogadores  
+
+### Mirror
+
+[Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321)  
+[Mirror documentação](https://mirror-networking.gitbook.io/docs/)  
+[Mirror exemplos](https://mirror-networking.gitbook.io/docs/manual/examples)  
+
+<https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-tutorial-46209>  
 
 - [ ] biblioteca Mirror
   - [ ] criar uma sala.  
