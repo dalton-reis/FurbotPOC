@@ -20,7 +20,7 @@ Furbot - Provas de Conceito usando Unity e outras tecnologias.
 
 Unity: Windows / Package Manager  
   pressionar botão *unlook*  
-![Unity_VSCodeEditor](_outros/Unity_VSCodeEditor.png)
+![Unity_VSCodeEditor](_outros/Unity/Unity_VSCodeEditor.png)
 
 ## C\#
 
@@ -42,12 +42,12 @@ Unity: Windows / Package Manager
 <https://developer.vuforia.com/library/getting-started/getting-started-vuforia-engine-unity>  
 
 - 10.19.3 .. **NÃO USAR**
-![Vuforia_Unity_Package](_outros/Vuforia_Unity_Package.png)  
+![Vuforia_Unity_Package](_outros/Vuforia/Vuforia_Unity_Package.png)  
 - 10.19.3 .. **USAR ESTE**
-[add-vuforia-package-10-19-3.unitypackage](_outros/add-vuforia-package-10-19-3.unitypackage)  
+[add-vuforia-package-10-19-3.unitypackage](_outros/Vuforia/add-vuforia-package-10-19-3.unitypackage)  
 
 Erro de compilação Unity.  
-![Vuforia_Unity_NativeUI](_outros/Vuforia_Unity_NativeUI.png)  
+![Vuforia_Unity_NativeUI](_outros/Vuforia/Vuforia_Unity_NativeUI.png)  
 
 - [x] Vuforia: usar o marcador do QRCode para o site do Furbot com um desenho do Furbot no centro para mostrar um personagem 3D em cima.  
   - [ ] ao tocar na tela muda o personagem (parte de cima).  
