@@ -2,7 +2,6 @@
 
 Furbot - Provas de Conceito usando Unity e outras tecnologias.
 
-## Lojas  
 
 - P: publicado na loja PlayStore (Android)  
 - A: publicado na loja AppleStore (Apple)  
@@ -25,6 +24,17 @@ Furbot - Provas de Conceito usando Unity e outras tecnologias.
 Unity: Windows / Package Manager  
   pressionar botão *unlook*  
 ![Unity_VSCodeEditor](_outros/Unity/Unity_VSCodeEditor.png)
+
+### Unity - Player  
+
+Company Name  
+    FURB - LDTT  
+
+Product Name  
+    XXXXX  
+
+Bundle Identifier  
+    br.furb.furbot.XXXXX  
 
 ## C\#
 
