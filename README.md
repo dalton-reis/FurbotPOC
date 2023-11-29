@@ -52,6 +52,8 @@ Bundle Identifier
 
 ## FurbotRA: Realidade Aumentada  
 
+![Ideias](_outros/ideias_RA.png)  
+
 <https://developer.vuforia.com/vui/develop/dashboard>  
 <https://developer.vuforia.com/library/getting-started/getting-started-vuforia-engine-unity>  
 
