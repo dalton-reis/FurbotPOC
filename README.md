@@ -69,6 +69,7 @@ Erro de compilação Unity.
   - [ ] ao tocar na tela muda o personagem (parte de cima).  
   - [ ] ArFoundation: sem uso de marcador.  
     - [ ] ao tocar na tela muda o personagem (muda de cena sem precisar registrar uma nova âncora).  
+- [ ] ter uma cena tipo "proteção de tela", que após um tempo de inatividade entra na cena e desligando o Vuforia com câmera aberta para economizar energia. Nesta cena ficar monitorando os movimentos do acelerômetro ou toque na tela, para votar a cena do Vuforia.
 
 ## FurbotRV: Realidade Virtual  
 
