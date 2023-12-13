@@ -28,7 +28,7 @@ Unity: Windows / Package Manager
 ### Unity - Player  
 
 Company Name  
-    FURB - LDTT  
+    FURB-LDTT  
 
 Product Name  
     XXXXX  
@@ -100,6 +100,18 @@ Erro de compilação Unity.
   - [ ] poder visualizar personagem local e remoto.  
   - [ ] poder interagir com um personagem local e mudar o remoto.  
   - [ ] poder interagir com um personagem remoto e mudar o local.  
+
+## FurbotTestes: Testes Unitários
+
+[Title](https://unity.com/pt/how-to/unity-test-framework-video-game-development)
+
+[Title](https://cursos.alura.com.br/forum/topico-como-testar-meu-jogo-criado-no-unity-79308)
+[Title](https://periodicos.ufpb.br/index.php/tematica/article/view/51263)
+[Title](https://gamedeveloper.com.br/unity-tdd/)
+[Title](https://gamedeveloper.com.br/dicas-teste-tecnico-unity-1/)
+[Title](https://unity.com/pt/solutions/devops-principles)
+[Title](https://www.wolfram.com/language/12/built-in-interface-to-unity-game-engine/automate-game-testing.html.pt-br)
+[Title](https://blog.gazeus.com/estruturando-seu-projeto-unity-para-criar-testes-unit%C3%A1rios-a97c159b11dc)
 
 ## FurbotHD: Internet Das Coisas (IOT)  
 
